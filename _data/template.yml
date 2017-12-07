@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Raleway", "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: ' "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Consolas", "Helvetica Neue", Helvetica,Arial,sans-serif'

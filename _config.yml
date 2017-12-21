@@ -7,6 +7,12 @@ email: rombolab@uw.edu
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
+# Projects
+collections:
+  projects :
+    output : true
+    permalink : /:collection/:path/
+
 leader:
 - name: Eric Rombokas
   pic: rombokas
@@ -16,7 +22,6 @@ leader:
       url: http://rombokas.com/eric/
     - title: linkedin
       url: https://www.linkedin.com/in/eric-rombokas-2589099/
-
 
 # Team names, titles and social links
 headshotsize: 200px
@@ -71,6 +76,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/lukekjohnson/
 
+- name: Nataliya Rokhmanova
+  pic: nrokh
+  position: Masters Student - Mechanical Engineering
+  social:
+    - title: link
+      url: mailto:nrokh@uw.edu
+    - title: linkedin
+      url: https://www.linkedin.com/in/rokhmanova/
 
 - name: Pornthep Preechayasomboon
   pic: prnthp
@@ -90,14 +103,7 @@ people:
     - title: link
       url: mailto:raiv@uw.edu
 
-- name: Nataliya Rokhmanova
-  pic: nrokh
-  position: Masters Student - Mechanical Engineering
-  social:
-    - title: link
-      url: mailto:nrokh@uw.edu
-    - title: linkedin
-      url: https://www.linkedin.com/in/rokhmanova/
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

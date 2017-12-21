@@ -1,8 +1,8 @@
 .tags-container span {
     display: inline-block;
-    border: 2px solid #CCC;
+    border: 1px solid #CCC;
     color: #AAA;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 10px;
     padding: 5px 9px;
     margin: 5px;
@@ -17,17 +17,17 @@
 }
 
 .tags-container span:hover {
-    border: 2px solid #000;
+    border: 1px solid #000;
     color: #FFF;
     background-color: #000
 }
 
 .tags-container span.tagsort-active {
-    border: 2px solid #000;
+    border: 1px solid #000;
     color: #000;
     background-color: transparent
 }
 
 .tags-container {
-		margin: 40px 0;
+		margin: 10px 0;
 }

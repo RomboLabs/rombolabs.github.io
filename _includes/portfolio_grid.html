@@ -7,26 +7,28 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-
-            <div class="tags-container row"></div>
+            <div class="row">
+              <div class="col-md-1 text-muted" style="margin: 0 auto;"><h4>Filters</h4></div>
+              <div class="tags-container col-md-11"></div>
+            </div>
 
             <div class="row">
-            {% for post in site.posts %}
-            <div class="row item" data-item-tags="{{ post.topics }}">
+            {% for project in site.projects %}
+            <div class="row item" data-item-tags="{{ project.topics }}">
                 <div class="col-md-4 col-sm-2 portfolio-item" >
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal{{ project.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="img/portfolio/{{ project.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-8 col-sm-2">
-                    <h3>{{ post.title }}</h3>
+                    <h3>{{ project.title }}</h3>
                     <p class="item-tags"></p>
-                    <p class="text-muted">{{ post.blurb }}</p>
+                    <p class="text-muted">{{ project.blurb }}</p>
                 </div>
               </div>
             {% endfor %}

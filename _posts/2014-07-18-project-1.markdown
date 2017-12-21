@@ -1,6 +1,7 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Bishop's Hand
+topics: Virtual Reality, Body Ownership
+blurb: Why does your hand feel like a part of your body, but your screwdriver does not? We are investigating the mechanisms used by the brain to create a sense of ownership over the body. One of the ways that researchers study this is to measure the reactions to threats to the body. By controlling a person's visual, tactile, and movement cues of their body and the environment, we can STAB STAB STAB STAB
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +11,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Why does your hand feel like a part of your body, but your screwdriver does not? We are investigating the mechanisms used by the brain to create a sense of ownership over the body. One of the ways that researchers study this is to measure the reactions to threats to the body. By controlling a person's visual, tactile, and movement cues of their body and the environment, we can STAB STAB STAB STAB
 ---

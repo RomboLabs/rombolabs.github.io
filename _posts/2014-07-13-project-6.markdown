@@ -1,5 +1,6 @@
 ---
 title: Round Icons
+topics: Controls, Body Ownership
 subtitle: Graphic Design
 layout: default
 modal-id: 6

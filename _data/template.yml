@@ -1,11 +1,12 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 01D2CF
+  # primary: 01D2CF
+  primary: 00d4ff
   secondary: 01D2CF
   secondary-dark: 333
   muted: 666
 
 # Font Families
 font:
-  primary: ' "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Consolas", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: ' "Segoe UI",Helvetica,Arial,sans-serif'
+  secondary: '"Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'

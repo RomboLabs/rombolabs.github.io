@@ -1,6 +1,7 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Myoelectric Trainer
+topics: Prosthetics, Rubber hand illusion
+blurb: Despite the incredible cost of a state of the art upper limb prosthesis, they are often abandoned by users who feel they do not match their needs. Effective use of these prostheses requires advanced training methods - which has unfortunately received relatively little focus.
 layout: default
 modal-id: 3
 date: 2014-07-16

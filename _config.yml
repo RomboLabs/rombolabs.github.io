@@ -32,8 +32,10 @@ people:
   pic: astrini
   position: PhD Candidate - Electrical Engineering
   social:
-    - title: link
+    - title: envelope
       url: mailto:astrini@uw.edu
+    - title: linkedin
+      url: https://www.linkedin.com/in/astrinisie/
 
 - name: David Boe
   pic: davidboe
@@ -46,14 +48,14 @@ people:
   pic: dcaballe
   position: PhD Candidate - Electrical Engineering
   social:
-    - title: link
+    - title: envelope
       url: mailto:dcabelle@uw.edu
 
 - name: Gaurav Mukherjee
   pic: mgaurav
   position: PhD Student - Mechanical Engineering
   social:
-#    - title: link
+#    - title: envelope
 #      url: mailto:mgaurav@uw.edu
     - title: linkedin
       url: https://www.linkedin.com/in/mukherjeegaurav/
@@ -62,7 +64,7 @@ people:
   pic: lalitp
   position: Masters Candidate - Mechanical Engineering
   social:
-#    - title: link
+#    - title: envelope
 #      url: mailto:lalitp@uw.edu
     - title: linkedin
       url: https://www.linkedin.com/in/lalit-palve-a9a28654/
@@ -71,8 +73,8 @@ people:
   pic: lukej
   position: Masters Candidate - Mechanical Engineering
   social:
-#    - title: link
-#      url: mailto:lalitp@uw.edu
+#    - title: envelope
+#      url: mailto:lukej11@uw.edu
     - title: linkedin
       url: https://www.linkedin.com/in/lukekjohnson/
 
@@ -80,7 +82,7 @@ people:
   pic: nrokh
   position: Masters Student - Mechanical Engineering
   social:
-    - title: link
+    - title: envelope
       url: mailto:nrokh@uw.edu
     - title: linkedin
       url: https://www.linkedin.com/in/rokhmanova/
@@ -89,7 +91,7 @@ people:
   pic: prnthp
   position: Masters Student - Soft Robotics Engineering
   social:
-    - title: link
+    - title: envelope
       url: mailto:prnthp@uw.edu
     - title: linkedin
       url: https://www.linkedin.com/in/pornthep/
@@ -100,7 +102,7 @@ people:
   pic: raiv
   position: PhD Candidate - Electrical Engineering
   social:
-    - title: link
+    - title: envelope
       url: mailto:raiv@uw.edu
 
 
@@ -114,8 +116,8 @@ social:
     url: http://github.com/rombolabs
 
 contactinfo:
-  - line: rombolabs@uw.edu
-  - line: 206-123-1234
+  - line: rombolab@uw.edu
+  - line: 206-764-2991
 
 addresses:
   - address:

@@ -664,6 +664,21 @@ section h3.section-subheading {
     }
 }
 
+.team-peek {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    width: 250px;
+    height: 250px;
+    opacity: 0;
+}
+
+.team-peek:hover {
+  opacity: 1;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;

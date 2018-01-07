@@ -675,7 +675,7 @@ section h3.section-subheading {
     opacity: 0;
 }
 
-.team-peek:hover {
+.team-peek:hover, .team-peek:active{
   opacity: 1;
 }
 

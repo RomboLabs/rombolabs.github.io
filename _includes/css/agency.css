@@ -673,6 +673,9 @@ section h3.section-subheading {
     width: 250px;
     height: 250px;
     opacity: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
 }
 
 .team-peek:hover, .team-peek:active{

@@ -2,7 +2,11 @@
 modal-id: 5
 title: The futility of attachments 
 topics: Virtual Reality, Body Ownership, Soft Robotics, Exoskeletons, Prostheses
-blurb: Take a moment to be mindful of all the objects attached to your body - every piece of clothing, your shoes, your watch and possibly a pair of glasses resting on your nose. The concept of wearable devices is not new to us and yet, in everyday life, the forces and moments due to these passive wearable objects on our body are camouflaged by design. However, the same level of comfort and functional design is unavailable to another class of wearable devices that are active, such as powered prostheses, exoskeletons, and haptic devices. While these devices are growing exponentially in capability, the key to encouraging use of these devices regularly among the users in the rehabilitation community as well as consumers in search for a deeper immersion into a haptic environment, hinges on our ability to camouflage the interaction forces and moments on the human body at the surface of contact with active wearable devices. This project seeks to develop the fundamental scientific principles behind the design of engineered physical interfaces between humans and machine.   
+blurb: Take a moment to be mindful of all the objects attached to your body - every piece of clothing, your shoes, your watch and possibly a pair of glasses resting on your nose. The concept of wearable devices is not new to us and yet, in everyday life, the forces and moments due to these passive wearable objects on our body are camouflaged by design. How do we make active wearable devices, such as powered prostheses, exoskeletons, and haptic devices equally comfortable, and functional? 
+
+While active wearable devices that apply forces and torques to the body are growing exponentially in capability, encouraging use of these devices regularly among those seeking either sensorimotor rehabilitation, or among consumers looking for a deeper immersion into virtual environments, hinges on our ability to camouflage the interaction forces and moments on the human body at the surface of contact with active wearable devices. 
+
+This project seeks to develop the fundamental scientific principles behind the design of engineered physical interfaces between humans and machine.   
 
 header: grounding.jpg
 thumbnail: grounding.jpg

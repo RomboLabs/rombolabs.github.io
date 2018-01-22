@@ -1,7 +1,7 @@
 ---
 modal-id: 5
 title: Attaching wearable devices to the body 
-topics: Virtual Reality, Body Ownership, Soft Robotics, Exoskeletons, Prostheses
+topics: Virtual Reality, Body Ownership, Soft Robotics, Metamaterials, Prosthesis & Orthosis, Haptics
 blurb: Take a moment to be mindful of all the objects attached to your body - your clothing, your shoes, your watch and possibly a pair of glasses resting on your nose. While these passive wearable objects apply low forces and moments to the body and are optimally designed to camouflage these interaction forces, the same degree of comfort and function is not available for active wearable devices, such as powered prostheses, exoskeletons, and haptic devices which apply external forces and moments to the human body. This project seeks to develop the fundamental scientific principles behind the design of engineered physical interfaces between humans and machines.   
 
 header: grounding.jpg

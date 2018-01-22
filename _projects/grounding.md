@@ -11,13 +11,20 @@ people: Gaurav M., Chris R., Patrick A., Eric R.
 ## Introduction
 We can design materials to mitigate the effects of external forces and moments on our body due to interaction with daily objects. This is done partly by using geometrical contours like the shapes of handles, and by using smart mechanisms and materials. However, active wearable devices such as powered prostheses, exoskeletons, and haptic interfaces grounded to the human body lack appropriate design of interaction surfaces. The resulting build up of forces and moments over the interaction surface between the human and the machine leads to decreased comfort and functional fit, and is a contributer to disuse of active wearable devices. This challenge is multi-faceted, and we approach it by addressing 4 major themes:
 ## Themes
- **Theme 1:** Human Measurement  
+ **Theme 1:** Human Measurement
+ 
  We need to quantify the material behavior of the tissues of the body under loads applied at different points and directions.
+ 
  **Theme 2:** Design  
+ 
  We need to design the ideal match between an engineered material and the human body to promote comfort and function.
+ 
  **Theme 3:** Instantiation  
+ 
  We need to create tangible instances of the designed materials using commercial materials, and custom 3-D printed or cast structures.
+ 
  **Theme 4:** User Testing  
+ 
  We need to get user feedback to validate the comfort of the candidate designs, and to quantify the behavior of the interaction between the human and machine system.
 
 ## Methods

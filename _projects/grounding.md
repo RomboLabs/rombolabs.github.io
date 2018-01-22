@@ -1,19 +1,15 @@
 ---
 modal-id: 5
-title: The futility of attachments 
+title: Attaching wearable devices to the body 
 topics: Virtual Reality, Body Ownership, Soft Robotics, Exoskeletons, Prostheses
-blurb: Take a moment to be mindful of all the objects attached to your body - every piece of clothing, your shoes, your watch and possibly a pair of glasses resting on your nose. The concept of wearable devices is not new to us and yet, in everyday life, the forces and moments due to these passive wearable objects on our body are camouflaged by design. How do we make active wearable devices, such as powered prostheses, exoskeletons, and haptic devices equally comfortable, and functional? 
-
-While active wearable devices that apply forces and torques to the body are growing exponentially in capability, encouraging use of these devices regularly among those seeking either sensorimotor rehabilitation, or among consumers looking for a deeper immersion into virtual environments, hinges on our ability to camouflage the interaction forces and moments on the human body at the surface of contact with active wearable devices. 
-
-This project seeks to develop the fundamental scientific principles behind the design of engineered physical interfaces between humans and machine.   
+blurb: Take a moment to be mindful of all the objects attached to your body - your clothing, your shoes, your watch and possibly a pair of glasses resting on your nose. While these passive wearable objects apply low forces and moments to the body and are optimally designed to camouflage these interaction forces, the same degree of comfort and function is not available for active wearable devices, such as powered prostheses, exoskeletons, and haptic devices which apply external forces and moments to the human body. This project seeks to develop the fundamental scientific principles behind the design of engineered physical interfaces between humans and machines.   
 
 header: grounding.jpg
 thumbnail: grounding.jpg
 people: Gaurav M., Chris R., Patrick A., Eric R.
 ---
 ## Introduction
-We can design materials and machines to mitigate the effects of external forces and moments on our body due to interaction with daily objects. This is done partly by using geometrical contours like the shapes of handles, and by using smart mechanisms and materials. However, active wearable devices such as powered prostheses, exoskeletons, and haptic interfaces grounded to the human body lack appropriate design of interaction surfaces. The resulting build up of forces and moments over the interaction surface between the human and the machine leads to decreased comfort and functional fit, and is a contributer to disuse of active wearable devices. This challenge is multi-faceted, and we approach it by addressing 4 major themes:
+We can design materials to mitigate the effects of external forces and moments on our body due to interaction with daily objects. This is done partly by using geometrical contours like the shapes of handles, and by using smart mechanisms and materials. However, active wearable devices such as powered prostheses, exoskeletons, and haptic interfaces grounded to the human body lack appropriate design of interaction surfaces. The resulting build up of forces and moments over the interaction surface between the human and the machine leads to decreased comfort and functional fit, and is a contributer to disuse of active wearable devices. This challenge is multi-faceted, and we approach it by addressing 4 major themes:
 header: DesignCycle.jpg
 thumbnail: DesignCycle.jpg
  **Theme 1: Human**  

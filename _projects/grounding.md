@@ -16,7 +16,7 @@ We can design materials to mitigate the effects of external forces and moments o
  **Theme 2:** Design  
  We need to design the ideal match between an engineered material and the human body to promote comfort and function.
  **Theme 3:** Instantiation  
- We need to create tangible and testable instances of the designed materials using commercial materials, and custom 3-D printed or cast structures. 
+ We need to create tangible instances of the designed materials using commercial materials, and custom 3-D printed or cast structures.
  **Theme 4:** User Testing  
  We need to get user feedback to validate the comfort of the candidate designs, and to quantify the behavior of the interaction between the human and machine system.
 

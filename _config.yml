@@ -53,7 +53,9 @@ people:
   position: PhD Candidate - Electrical Engineering
   social:
     - title: envelope
-      url: mailto:dcabelle@uw.edu
+      url: mailto:dcaballe@uw.edu
+    - title: linkedin
+      url: https://www.linkedin.com/in/caballerodavide
 
 - name: Gaurav Mukherjee
   pic: mgaurav.jpg

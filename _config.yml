@@ -4,7 +4,7 @@ url: https://localhost:4000
 # Site settings
 title: rombolabs
 email: rombolab@uw.edu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Rombolabs: We seek to understand how humans and other animals sense their bodies and the environment to control movement. We use this understanding to improve mobility for people with lower limb amputation – walking, negotiating stairs, running, jumping. We are building smarter sensors and controllers for prosthetic limbs. We are creating technology that improves the prosthesis wearing experience by providing sensory feedback. And we are doing basic research in neural control of movement, how the brain creates a sense of ownership of the body, and more!"
 
 
 # Projects

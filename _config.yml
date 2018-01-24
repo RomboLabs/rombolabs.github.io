@@ -128,7 +128,7 @@ social:
     url: http://github.com/rombolabs
 
 contactinfo:
-  - line: rombolab@uw.edu
+  - line: <a href="mailto:rombolab@uw.edu">rombolab@uw.edu</a>
   - line: 206-764-2991
 
 addresses:

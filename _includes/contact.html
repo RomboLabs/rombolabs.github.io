@@ -10,17 +10,17 @@
                     {% for address in site.addresses %}
                     <div class="col-md-4">
                         {% for add in address.address %}
-                        <h5 style="text-transform:none">{{ add.line }}</h5>
+                        <h4 style="text-transform:none; font-weight:300">{{ add.line }}</h4>
                         {% endfor %}
                     </div>
                     {% endfor %}
                     <div class="col-md-4">
                         {% for lines in site.contactinfo %}
-                        <h5 style="text-transform:none">{{ lines.line }}</h5>
+                        <h4 style="text-transform:none">{{ lines.line }}</h4>
                         {% endfor %}
                     </div>
                     <span class="row"></span>
-                    <form name="sentMessage" id="contactForm" novalidate>
+                    <!-- <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
@@ -48,7 +48,7 @@
                                 <button type="submit" class="btn btn-xl">Send Message</button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
                 </div>
             </div>
         </div>

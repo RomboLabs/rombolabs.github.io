@@ -94,13 +94,15 @@ people:
   social:
     - title: envelope
       url: mailto:nrokh@uw.edu
+    - title: link
+      url: https://nrokh.github.io/
     - title: linkedin
       url: https://www.linkedin.com/in/rokhmanova/
 
 - name: Pornthep Preechayasomboon
   pic: prnthp.jpg
   peek: dank.jpg
-  position: Masters Student - Soft Robotics Engineering
+  position: Masters Student - Mechanical Engineering
   social:
     - title: envelope
       url: mailto:prnthp@uw.edu

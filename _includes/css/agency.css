@@ -915,6 +915,16 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+.publications {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.publications a {
+    font-weight: 500;
+    font-size: 16pt;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};

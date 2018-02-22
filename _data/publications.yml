@@ -1,0 +1,42 @@
+publications: Publications
+pubs:
+
+- title: A Lower Limb Prosthesis Haptic Feedback System for Stair Descent
+  authors: A Sie, J Realmuto, E Rombokas
+  year: 2017
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ML0RJ9NH7IQC
+
+- title: Sensory Feedback for Lower Extremity Prostheses Incorporating Targeted Muscle Reinnervation (TMR)
+  authors: E Rombokas
+  year: 2016
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Z5m8FVwuT1cC
+
+- title: Gpu based path integral control with learned dynamics
+  authors: G Williams, E Rombokas, T Daniel
+  year: 2015
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ipzZ9siozwsC
+
+- title: A robotic model of inertial flight maneuvering in the hawkmoth
+  authors: E Rombokas, L Scheuer, JP Dyhr, TL Daniel
+  year: 2014
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:nrtMV_XWKgEC
+
+- title: "Sensing from control: airframe deformation for simultaneous actuation and state estimation"
+  authors: BT Hinson, E Rombokas, JP Dyhr, TL Daniel, KA Morgansen
+  year: 2013
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:yB1At4FlUx8C
+
+- title: Vibrotactile sensory substitution for electromyographic control of object manipulation
+  authors: E Rombokas, CE Stepp, C Chang, M Malhotra, Y Matsuoka
+  year: 2013
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Y0pCki6q_DkC
+
+- title: Reinforcement Learning and Synergistic Control of the ACT Hand
+  authors: E Rombokas, M Malhotra, E Theodorou, E Todorov, Y Matsuoka
+  year: 2012
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:UeHWp8X0CEIC
+
+- title: Comparison of remote pressure and vibrotactile feedback for prosthetic hand control
+  authors: C Tejeiro, CE Stepp, M Malhotra, E Rombokas, Y Matsuoka
+  year: 2012
+  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:zYLM7Y9cAGgC

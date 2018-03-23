@@ -4,7 +4,7 @@ url: https://localhost:4000
 # Site settings
 title: rombolabs
 email: rombolab@uw.edu
-description: "Rombolabs: We seek to understand how humans and other animals sense their bodies and the environment to control movement. We use this understanding to improve mobility for people with lower limb amputation – walking, negotiating stairs, running, jumping. We are building smarter sensors and controllers for prosthetic limbs. We are creating technology that improves the prosthesis wearing experience by providing sensory feedback. And we are doing basic research in neural control of movement, how the brain creates a sense of ownership of the body, and more!"
+description: "Rombolabs: We seek to understand how humans and other animals sense their bodies and the environment to control movement. We use this understanding to improve mobility for people with lower limb amputation – walking, negotiating stairs, running, jumping. We are building smarter controllers and sensory feedback for prosthetic limbs. We are performing basic research in neural control of movement, how the brain creates a sense of ownership of the body, and more!"
 
 
 # Projects
@@ -13,7 +13,10 @@ collections:
     output : true
     permalink : /:collection/:path/
 
-leader:
+# Team names, titles and social links
+headshotsize: 200px
+people:
+
 - name: Eric Rombokas
   pic: rombokas.png
   peek: rombokasGoggles.gif
@@ -23,11 +26,6 @@ leader:
       url: http://rombokas.com/eric/
     - title: linkedin
       url: https://www.linkedin.com/in/eric-rombokas-2589099/
-
-# Team names, titles and social links
-headshotsize: 200px
-people:
-
 
 - name: Astrini Sie
   pic: astrini.jpg
@@ -138,9 +136,9 @@ addresses:
     - line: University of Washington
     - line: Seattle, WA 98105
   - address:
+    - line: Center for Limb Loss and MoBility (CLiMB)
     - line: VA Puget Sound Health Care System
-    - line: VA RR&D Center, MS 151
-    - line: 1660 South Columbian Way
+    - line: 1660 South Columbian Way, MS 151
     - line: Seattle, WA 98105
 
 # Build settings

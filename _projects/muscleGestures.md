@@ -16,5 +16,5 @@ Current use of EMG is plagued by the spectre of calibration. A major factor of t
 ## Myometric Authentication
 Gesture computing could support "movement passwords," or special combinations of movements and poses used as a password. These would be vulnerable, however, to video recording and mimicry. If the visual modality were coupled with EMG sensing, there could exist a secret channel that augments the gesture password and secures it against mimicry.
 
-See this <a href="JustEMGSlidesFromCSNE.ppt">slide deck </a> for more details.
+See this <a href="media/JustEMGSlidesFromCSNE.ppt">slide deck </a> for more details.
 

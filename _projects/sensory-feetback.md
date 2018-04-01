@@ -6,6 +6,8 @@ blurb: "With the loss of a limb comes not only a loss of function: the rich sens
 header: sensory-feetback.png
 thumbnail: sensory-feetback.png
 people: Nataliya Rokhmanova
+permalink: sensory-feetback
+
 ---
 ## Details
 

@@ -6,13 +6,15 @@ blurb: "With the loss of a limb comes not only a loss of function: the rich sens
 header: sensory-feetback.png
 thumbnail: sensory-feetback.png
 people: Nataliya Rokhmanova
-permalink: sensory-feetback
 ---
 ## Details
+
 Targeted Reinnervation (TR) surgery restores sensation by moving the nerves that once led to the missing limb, reattaching them to a new muscle location. This novel surgical intervention allows patients to feel full sensations, emanating from the phantom limb, when the healed surgical site is touched. By working with TR patients, we aim to develop a new way for users of lower limb prostheses to sense what is happening at the bottom of their foot when walking down the stairs, allowing them to regain control and ownership over their body.
-The proposed method of sensory feedback will be an Arduino-based haptic device that uses vibration to stimulate a phantom feeling of pressure at the bottom of the missing foot. The qualities and location of the vibration depend on the position of the prosthetic foot in contact with the ground, communicated to the Arduino through an insole array of force-sensitive resistors.
+
+The proposed method of sensory feedback will be an Arduino-based haptic device that uses vibration to create a phantom feeling of pressure at the bottom of the missing foot. The qualities and location of the vibration depend on the position of the prosthetic foot in contact with the ground, communicated to the Arduino through an insole array of force-sensitive resistors.
+
 Through the interaction of haptic feedback with native sensory receptors, we aim to better understand the neural principles of sensation and body ownership, helping users of prostheses blur the line between their organic and artificial limbs.
----
+
 ## Specific Aims
 **Aim 1:** Create a device that uses a sensorized insole to communicate vibrations to the user 
 
@@ -20,5 +22,11 @@ Through the interaction of haptic feedback with native sensory receptors, we aim
 
 **Aim 3:** Leverage findings of sensory mapping post-TR surgery in order to create and evaluate custom haptic bands 
 
+## Key Outcomes
+This work will explore applications of targeted reinnervation surgery, and inform further work on haptic interfaces with the skin through a greater understanding of the underlying neural principles of sensation and body ownership.  
 
+With these outcomes in mind, we see that the assistive technologies we create do more than replace ability: they shape the sense of self and bodily integrity. By including the users of these devices in the development process, we gain a holistic perspective on the intimate relationship between body and prosthesis.  
+
+
+## Media
 [Disrupt Slides](http://www.lib.washington.edu/commons/events/scholarsstudio/past/Disrupt%20-%20Fall%202017/Nataliya%20Rokhmanova.pdf)

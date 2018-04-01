@@ -390,6 +390,11 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+#portfolio .portfolio-permalink {
+  color: inherit;
+  text-decoration: inherit; 
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;

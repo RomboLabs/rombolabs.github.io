@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for project in site.projects %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ project.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal permalink" id="project-{{ project.permalink }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <div class="modal-title"><h2>{{ project.title }}</h2></div>
+                            <div class="modal-title"><h2><a href="#project-{{ project.permalink }}" class="portfolio-permalink">{{ project.title }}</a></h2></div>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ project.header }}" class="img-responsive img-centered" alt="{{ project.title }}">
                             <div class="row modal-people"><h3>Researchers</h3> {{ project.people }}</div>
@@ -25,3 +25,13 @@
         </div>
     </div>
 {% endfor %}
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".modal.permalink").each(function(){
+    if(window.location.href.indexOf($(this).attr("id")) != -1){
+      $(this).modal('show');
+    }
+  });
+});
+</script>

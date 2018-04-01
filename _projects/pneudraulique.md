@@ -6,6 +6,7 @@ blurb: Peudraulique is a blanket term for adventures into the soft-robotics spac
 header: pneudraulique.png
 thumbnail: pneudraulique-thumbnail.png
 people: Pornthep P.
+permalink: pneudraulique
 ---
 ## Media
 ![Sensuator](/img/portfolio/sensuatorv3.jpg)

@@ -6,6 +6,7 @@ blurb: Despite the incredible cost of a state of the art upper limb prosthesis, 
 header: myoelectric-trainer.png
 thumbnail: myoelectric-trainer.png
 people: David Boe
+permalink: myoelectric-trainer
 ---
 ## Description
 In current practice, reimbursement, lack of experience, and the increasing complexity of prosthetic devices limit patient access to healthcare professionals qualified to administer prosthetic training. We will lower the barrier to access by developing a self-guided prosthetic training application that teaches the fundamental skills required to control a state of the art myoelectric prosthesis. Training will be delivered in a gamified virtual environment that motivates the patient to engage in a wide variety of activities with his or her virtual prosthesis. Aside from providing enhanced preprosthetic training, simulated ownership of a missing limb can be used to investigate potential benefits to psychological well-being and pain management post-amputation.

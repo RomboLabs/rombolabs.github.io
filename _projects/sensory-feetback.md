@@ -6,6 +6,7 @@ blurb: "With the loss of a limb comes not only a loss of function: the rich sens
 header: sensory-feetback.png
 thumbnail: sensory-feetback.png
 people: Nataliya Rokhmanova
+permalink: sensory-feetback
 ---
 ## Details
 Targeted Reinnervation (TR) surgery restores sensation by moving the nerves that once led to the missing limb, reattaching them to a new muscle location. This novel surgical intervention allows patients to feel full sensations, emanating from the phantom limb, when the healed surgical site is touched. By working with TR patients, we aim to develop a new way for users of lower limb prostheses to sense what is happening at the bottom of their foot when walking down the stairs, allowing them to regain control and ownership over their body.

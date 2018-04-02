@@ -3,8 +3,8 @@ modal-id: 1
 title: Targeted Muscle Reinnervation Mapping
 topics: Body Ownership
 blurb: Targeted Reinnervation (TR) surgery is a groundbreaking intervention for amputees, enabling them to feel authentic sensations on their missing limb. Despite incredible innovation in creating prosthetic systems that take advantage of TR's sensory phenomena, there has been limited study in characterizing the nature of the sensations, and how they develop over time. We aim to explicitly outline the exact qualities of the stimulus at the surgery site that elicits particular sensations in the phantom limb, like pressure, itching, or scratching. This characterization will inform the design of future prostheses to more richly simulate the myriad feelings of the world with which we interact.
-header: bishopsHand.jpg
-thumbnail: bishopsHand.jpg
+header: tmr_gui.png
+thumbnail: tmr_gui.png
 people: David B., David C., Lalit P., Nataliya R. 
 permalink: tmr_mapping
 

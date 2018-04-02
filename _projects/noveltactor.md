@@ -19,6 +19,7 @@ crucial factors in actuator performance. There have been many designs for haptic
 header: Tactor.jpg
 thumbnail: Tactor.jpg
 people: Lalit P.
+permalink: novaltactor
 ---
 
 ## Introduction

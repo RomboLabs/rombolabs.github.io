@@ -13,8 +13,8 @@ permalink: tmr_mapping
 The effects of TR surgery have been studied in the upper limb, but have remained largely unexplored in the lower limb. The characteristics of the stimulus we aim to explore include the threshold at which a sensation in the phantom limb is felt, the quality of the sensation elicited, the density of the distribution of sensation, and the location to which the stimulus maps to. The latter is of particular interest, as identifying which locations of the surgical site correspond to which locations on the phantom limb paves the way for developing prostheses that simulate sensations accurately. Additionally, this mapping can be used to study the patterns of neural regrowth post-surgery.
 
 ## Aims
-**Aim 1:** Creating a user interface to map perceived referred sensations 
-**Aim 2:** Experimentally determining individual sensation mappings
-**Aim 3:** Exploring technologies for applying sensation mappings, such as groups of vibrotactors for feedback
+**Aim 1:** Creating a user interface to map perceived referred sensations  
+**Aim 2:** Experimentally determining individual sensation mappings  
+**Aim 3:** Exploring technologies for applying sensation mappings, such as groups of vibrotactors for feedback  
 
 ## Media

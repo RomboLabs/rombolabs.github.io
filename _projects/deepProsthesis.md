@@ -9,7 +9,7 @@ thumbnail: ankle_prosthetic.jpg
 people: Vijeth Rai, Eric R
 permalink: deepProsthesis
 ---
-<img src="/images/Architecture.png" alt="Drawing" style="width: 800px;"/>
+<img src="Architecture.png" alt="Drawing" style="width: 800px;"/>
 
 ## Introduction
 Most state-of-the-art prosthetic controllers define modes of operation corresponding to terrain types such as flat-ground walking or stair ascent. But humans don’t think in terms of discrete modes for locomotion. Instead, humans optimize and select complex unique movements based on past experiences of navigating similar conditions. However, given the range of possible scenarios, an all-encompassing controller has been hard to implement.

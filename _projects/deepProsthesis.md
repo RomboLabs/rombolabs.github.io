@@ -14,11 +14,11 @@ Most state-of-the-art prosthetic controllers define modes of operation correspon
 
 We propose to use computer vision, inertial sensors and techniques from deep learning to train a system to generate movement controls for a prosthesis based on the movements observed in real scenarios. Such an example-based approach requires a copious amount of data but it provides the capability to generate movement that might be di?cult for us to explicitly model.
 
-##Methods:	 	 	
-###Phase 1- Kinematics :
+## Methods:	 	 	
+### Phase 1- Kinematics :
 Whole body gait kinematics will be collected using wireless inertial sensors (Xsens Inc). The dataset will include unstructured movements and activities from multiple users. A Long Short-Term Memory (LSTM) network will be trained to estimate instantaneous ankle kinematics.
 
-###Phase 2 - Kinematics + Vision :
+### Phase 2 - Kinematics + Vision :
 Scenarios such as obstacle avoidance and transition to stair ascent will need a glimpse of upcoming terrains. Whole body gait kinematics and raw image data from a head-mounted camera will be used to train a Convolutional Neural Network (CNN) + LSTM to estimate instantaneous kinematics, and also to predict upcoming ones.
 
 

@@ -5,7 +5,7 @@ topics: Machine Learning, Prosthesis
 blurb: Could a prosthesis learn from examples to adapt to any real-world scenario, much like humans do? Such a self-driving prosthesis would be a radical shift from the current state of affairs where assistive devices operate under strict “modes” of operation with terrain specific movement profiles. 
 
 header: ankle_prosthetic.jpg
-thumbnail:ankle_prosthetic.jpg
+thumbnail: ankle_prosthetic.jpg
 people: Vijeth Rai, Eric R
 permalink: deepProsthesis
 ---

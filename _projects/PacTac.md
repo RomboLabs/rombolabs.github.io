@@ -37,4 +37,4 @@ for use in rich sensory feedback applications, e.g. facial
 tactile stimulation integrated with virtual reality
 
 ## Media
-thumbnail: Facemask.jpg
+<img width="412" height="600" src="/img/portfolio/Facemask.jpg" alt="hi" class="inline"/>

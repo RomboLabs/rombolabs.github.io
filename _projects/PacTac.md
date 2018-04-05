@@ -1,6 +1,6 @@
 ---
 modal-id: 7
-title: Novel Vibrotactor
+title: PacTac
 topics: Virtual Reality, Haptics, Human-Machine Interface
 blurb: The performance of vibrotactile actuators is affected by the frequency and amplitude of oscillation, loading on the skin, and the size of the tactor-skin interface. Commercially available vibrotactors include eccentric rotating mass (ERM) devices, which have frequency and amplitude coupled, and linear resonant actuators (LRAs), which use a resonant frequency. The frequency is chosen to be easy to feel, but performance away from that frequency is dramatically diminished. It can also be difficult to assess the contribution of skin loading, which is one of the most crucial factors in actuator performance. There have been many designs for haptic feedback devices but there are still opportunities for improvement. 
 
@@ -37,4 +37,4 @@ for use in rich sensory feedback applications, e.g. facial
 tactile stimulation integrated with virtual reality
 
 ## Media
-<iframe width="650" height="340" src="https://drive.google.com/open?id=1dH3YKrOqVrKvVlMnE1DXi0YpYiV3VPHf" frameborder="0" gesture="media" allowfullscreen></iframe>
+thumbnail: Facemask.jpg

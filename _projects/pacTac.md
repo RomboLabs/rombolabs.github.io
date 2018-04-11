@@ -1,0 +1,40 @@
+---
+modal-id: 7
+title: PacTac
+topics: Virtual Reality, Haptics, Human-Machine Interface
+blurb: The performance of vibrotactile actuators is affected by the frequency and amplitude of oscillation, loading on the skin, and the size of the tactor-skin interface. Commercially available vibrotactors include eccentric rotating mass (ERM) devices, which have frequency and amplitude coupled, and linear resonant actuators (LRAs), which use a resonant frequency. The frequency is chosen to be easy to feel, but performance away from that frequency is dramatically diminished. It can also be difficult to assess the contribution of skin loading, which is one of the most crucial factors in actuator performance. There have been many designs for haptic feedback devices but there are still opportunities for improvement. 
+
+header: Tactor.jpg
+thumbnail: tactorrendered.jpg
+people: Lalit P.
+permalink: noveltactor
+---
+
+## Introduction
+We present a vibrotactile actuator design that
+addresses four of these opportunities at once: 1) the
+capability to vary the frequency of stimulation while
+keeping amplitude constant 2) small contact area on the
+skin, for providing pinpoint locality of stimulation, but also
+for packing many stimulators into a small area 3) a novel
+means of providing constant loading (normal force pressing
+the tactor against the skin) 4) capability to customize the
+waveform of stimulation.
+
+We demonstrate that stimulation with increasing amplitude,
+and independently with increasing frequency, results in
+increased subjective intensity on the thigh. The thigh is an
+interesting target because it is one of the least sensitive
+areas of the skin but is a natural target for stimulation by a
+lower-limb sensory feedback prosthesis. The effects as we
+vary amplitude and frequency appear consistent with those
+previously observed for hand.
+
+## Application
+
+We have developed a dense array of these vibrotactors
+for use in rich sensory feedback applications, e.g. facial
+tactile stimulation integrated with virtual reality
+
+## Media
+<img width="412" height="600" src="/img/portfolio/Facemask.jpg" alt="hi" class="inline"/>

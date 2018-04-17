@@ -4,7 +4,7 @@ title: Smart Step
 topics: Haptics, Body Ownership, Prosthesis & Orthosis, Machine Learning, Human-Machine Interface
 blurb: 
 header: 
-thumbnail: 
+thumbnail: smartstep.jpg
 people: Astrini Sie
 permalink: smartStep
 ---

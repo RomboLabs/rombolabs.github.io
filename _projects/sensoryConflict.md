@@ -1,6 +1,6 @@
 ---
 modal-id: 5
-title: Understanding Human Perception through Sensory Conflict
+title: VisuoTactile Sensory Conflict
 topics: Virtual Reality, Haptics, Human-Machine Interface, Perception, Prosthesis & Orthosis
 blurb: How we as humans make sense of our world? This is a complex question which we are trying to address by means of sensory conflict in the realm of vision and taction. 
 

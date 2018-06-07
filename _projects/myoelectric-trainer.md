@@ -3,8 +3,8 @@ modal-id: 3
 title: Virtual Prosthesis
 topics: Prosthesis & Orthosis, Virtual Reality
 blurb: Despite the incredible cost of a state of the art upper limb prosthesis, they are often abandoned by users who feel they do not match their needs. Effective use of these prostheses requires advanced training methods - which has unfortunately received relatively little focus.
-header: vp1.png
-thumbnail: vp1.png
+header: vp2.jpg
+thumbnail: vp2.jpg
 people: David Boe
 permalink: myoelectric-trainer
 ---
@@ -25,7 +25,7 @@ Many people with amputation suffer from phantom limb pain and abnormal sensation
 **Aim 3:** Assess the effect of using a virtual prosthesis on phantom limb pain.
 
 ## Methods
-![virtualprosthesis](/img/portfolio/vp2.jpg)
+![virtualprosthesis](/img/portfolio/vp1.png)
 
 A head mounted display (HTC Vive) renders a virtual environment to the user, whose residuum is tracked using a motion tracker (HTC Vive Puck). Electromyographic (EMG) signals are detected using EMG surface electrodes (Thalmic Labs Myo, Shimmer EMG) which communicates wirelessly to the VR-enabled desktop computer. Unity game engine receives EMG input and generates the resultant actuation commands to the virtual terminal device.
 

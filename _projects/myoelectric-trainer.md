@@ -25,6 +25,8 @@ Many people with amputation suffer from phantom limb pain and abnormal sensation
 **Aim 3:** Assess the effect of using a virtual prosthesis on phantom limb pain.
 
 ## Methods
+![virtualprosthesis](/img/portfolio/vp2.png)
+
 A head mounted display (HTC Vive) renders a virtual environment to the user, whose residuum is tracked using a motion tracker (HTC Vive Puck). Electromyographic (EMG) signals are detected using EMG surface electrodes (Thalmic Labs Myo, Shimmer EMG) which communicates wirelessly to the VR-enabled desktop computer. Unity game engine receives EMG input and generates the resultant actuation commands to the virtual terminal device.
 
 The user may a) customize the prosthesis to suit their needs using accurately depicted commercial components, b) train using gamified therapy that targets the principles of prosthetic motor control and c) be evaluated using standardized upper limb outcome measures to provide insight to their rehabilitation providers

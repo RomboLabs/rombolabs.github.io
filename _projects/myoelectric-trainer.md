@@ -3,8 +3,8 @@ modal-id: 3
 title: Virtual Prosthesis
 topics: Prosthesis & Orthosis, Virtual Reality
 blurb: Despite the incredible cost of a state of the art upper limb prosthesis, they are often abandoned by users who feel they do not match their needs. Effective use of these prostheses requires advanced training methods - which has unfortunately received relatively little focus.
-header: myoelectric-trainer.png
-thumbnail: myoelectric-trainer.png
+header: vp1.png
+thumbnail: vp1.png
 people: David Boe
 permalink: myoelectric-trainer
 ---

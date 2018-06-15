@@ -2,7 +2,7 @@
 modal-id: 4
 title: ConTact Sensors
 topics: Soft Robotics, Machine Learning, Metamaterials
-blurb: The ConTact Sensor is a force and contact area sensitive sensor that can be easily integrated into most soft-robotics designs. Using the fluidic conductive medium already inherent in soft robots, the sensor can sense the force and size of an object pressing into it. Soft robots can now
+blurb: The ConTact Sensor is a force and contact area sensitive sensor that can be easily integrated into most soft-robotics designs. Using the fluidic conductive medium already inherent in soft robots, the sensor can sense the force and size of an object pressing into it. Soft robots can now feel the world around them without the need for extra sensors.
 header: contact-header.jpg
 thumbnail: contactsensor-square.png
 people: Pornthep P.

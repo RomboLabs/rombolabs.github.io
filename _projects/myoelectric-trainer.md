@@ -11,6 +11,8 @@ permalink: myoelectric-trainer
 ## Virtual Prosthesis - Why?
 Myoelectric prostheses cost the same as a new car, yet users are unable to take them for a test drive. The virtual prosthesis allows users to “try-before-buy” to discover for themselves whether the prosthesis will suit their needs. We seek to empower users – long time users or new users – to make these important decisions about their prosthetic care. Beyond simple exploration of prosthetic options, we seek to build a full virtual rehabilitation system that will guide patients through upper limb rehabilitation while providing valuable data to the rehabilitation care team.
 
+This [video](/img/portfolio/VRProsthesisFPV.mp4) shows 2 sessions of "box and blocks" side-by-side. On the left is a virtual session and on the right is a session using the real-world prosthesis. 
+
 ## Training
 Receiving adequate training has been shown to be necessary to maximize usage of the prosthesis in daily life. The virtual prosthesis emulates the function of the definitive, physical prosthesis such that training can begin immediately after amputation. Due to insurance authorization delays, complications from surgery, and strength and range of motion limitations, many patients must wait many months before receiving a prosthesis. The virtual prosthesis is a non-invasive and lightweight system that can be worn at any level of amputation. In practice, virtual training can address control issues faced by myoelectric users and may be paired with a “test” socket to better match the experience of actually wearing a prosthesis.
 

@@ -5,13 +5,13 @@ topics: Prosthesis & Orthosis, Virtual Reality
 blurb: Despite the incredible cost of a state of the art upper limb prosthesis, they are often abandoned by users who feel they do not match their needs. Effective use of these prostheses requires advanced training methods - which has unfortunately received relatively little focus.
 header: vp2.jpg
 thumbnail: vp2.jpg
-people: David Boe
+people: David Boe, MPO
 permalink: myoelectric-trainer
 ---
 ## Virtual Prosthesis - Why?
 Myoelectric prostheses cost the same as a new car, yet users are unable to take them for a test drive. The virtual prosthesis allows users to “try-before-buy” to discover for themselves whether the prosthesis will suit their needs. We seek to empower users – long time users or new users – to make these important decisions about their prosthetic care. Beyond simple exploration of prosthetic options, we seek to build a full virtual rehabilitation system that will guide patients through upper limb rehabilitation while providing valuable data to the rehabilitation care team.
 
-This [video](/img/portfolio/VRProsthesisFPV.mp4) shows 2 sessions of "box and blocks" side-by-side. On the left is a virtual session and on the right is a session using the real-world prosthesis. 
+This [video](/img/portfolio/VRProsthesisFPV.mp4) shows a virtual session of "box and blocks." This [video](/img/portfolio/VirtualProsthesisPhysicalBrunelBnB.mp4) shows a physical session of "box and blocks."
 
 ## Training
 Receiving adequate training has been shown to be necessary to maximize usage of the prosthesis in daily life. The virtual prosthesis emulates the function of the definitive, physical prosthesis such that training can begin immediately after amputation. Due to insurance authorization delays, complications from surgery, and strength and range of motion limitations, many patients must wait many months before receiving a prosthesis. The virtual prosthesis is a non-invasive and lightweight system that can be worn at any level of amputation. In practice, virtual training can address control issues faced by myoelectric users and may be paired with a “test” socket to better match the experience of actually wearing a prosthesis.
@@ -22,13 +22,13 @@ Many people with amputation suffer from phantom limb pain and abnormal sensation
 ## Aims
 **Aim 1:** Assess the effectiveness of virtual reality training in improving prosthetic function and control.
 
-**Aim 2:** Assess the predictive power of the virtual prosthesis through the use of standardized upper limb outcome measures.
+**Aim 2:** Assess the effect of using a virtual prosthesis on phantom limb pain.
 
-**Aim 3:** Assess the effect of using a virtual prosthesis on phantom limb pain.
+**Aim 3:** Assess the predictive power of the virtual prosthesis through the use of standardized upper limb outcome measures.
 
 ## Methods
 ![virtualprosthesis](/img/portfolio/vp1.png)
 
 A head mounted display (HTC Vive) renders a virtual environment to the user, whose residuum is tracked using a motion tracker (HTC Vive Puck). Electromyographic (EMG) signals are detected using EMG surface electrodes (Thalmic Labs Myo, Shimmer EMG) which communicates wirelessly to the VR-enabled desktop computer. Unity game engine receives EMG input and generates the resultant actuation commands to the virtual terminal device.
 
-The user may a) customize the prosthesis to suit their needs using accurately depicted commercial components, b) train using gamified therapy that targets the principles of prosthetic motor control and c) be evaluated using standardized upper limb outcome measures to provide insight to their rehabilitation providers
+The user may a) customize the prosthesis to suit their needs using accurately depicted commercial components, b) train using gamified therapy that targets the principles of prosthetic motor control and c) be evaluated using standardized upper limb outcome measures to provide insight to their rehabilitation providers.

@@ -27,6 +27,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/eric-rombokas-2589099/
 
+- name: Abhishek Sharma
+  pic: abhi.jpg
+  peek: dank.jpg
+  position: PhD Student - Mechanical Engineering
+  social:
+    - title: envelope
+      url: mailto:abhisheksharma0711@gmail.com
+
 - name: Astrini Sie
   pic: ASnorm copy.jpg
   peek: ASvr copy.jpg
@@ -65,26 +73,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/mukherjeegaurav/
 
-- name: Lalit Palve
-  pic: lalitp.jpg
-  peek: lalit-peek.jpg
-  position: Masters Candidate - Mechanical Engineering
-  social:
-#    - title: envelope
-#      url: mailto:lalitp@uw.edu
-    - title: linkedin
-      url: https://www.linkedin.com/in/lalit-palve-a9a28654/
-
-- name: Luke Johnson
-  pic: lukej.jpg
-  peek: dank.jpg
-  position: Masters Candidate - Mechanical Engineering
-  social:
-#    - title: envelope
-#      url: mailto:lukej11@uw.edu
-    - title: linkedin
-      url: https://www.linkedin.com/in/lukekjohnson/
-
 - name: Nataliya Rokhmanova
   pic: NRnorm copy.jpg
   peek: NRvr copy.jpg
@@ -99,8 +87,8 @@ people:
 
 - name: Pornthep Preechayasomboon
   pic: PPnorm copy.jpg
-  peek: PPvr copy.jpg
-  position: Masters Student - Mechanical Engineering
+  peek: Porny2.jpg
+  position: PhD Student - Mechanical Engineering
   social:
     - title: envelope
       url: mailto:prnthp@uw.edu
@@ -117,8 +105,29 @@ people:
     - title: envelope
       url: mailto:raiv@uw.edu
     - title: link
-      url: https://vijethrai.github.io/ 
+      url: https://vijethrai.github.io/
 
+alumni:
+  - name: Huiwen Guo
+    pic: huiwen.jpg
+    position: Masters <br /> Mechanical Engineering
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/huiwenguo/
+        
+  - name: Luke Johnson
+    pic: lukej.jpg
+    position: Masters <br /> Mechanical Engineering
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/lukekjohnson/
+
+  - name: Lalit Palve
+    pic: lalitp.jpg
+    position: Masters <br /> Mechanical Engineering
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/lalit-palve-a9a28654/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

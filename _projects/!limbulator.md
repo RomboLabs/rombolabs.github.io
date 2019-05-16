@@ -8,6 +8,7 @@ thumbnail: LimbSimAction1.png
 people: David Boe, MPO
 permalink: !limbulator
 ---
+
 This is a video overview of the project.
 https://drive.google.com/file/d/12Jf77bM5Dhy5CeNoIgZHJD84H-1JX1vX/view?usp=sharing
 
@@ -18,5 +19,4 @@ Phantom limb pain is a growing problem as the number of people living with limb 
 Case studies are being conducted at the Veteran’s Affairs Puget Sound Hospital and Harborview Medical Center in Seattle, WA to guide the development of Limb Simulator. The study team is preparing a fully powered clinical trial to test the effectiveness of the system. Efforts are in progress to improve therapy workflow, to implement new features, and to improve the core technology behind the therapy.
 
 ## Gallery
-![ULPkitchen](/img/portfolio/kitchenNEW.png) 
-![virtualprosthesis](/img/portfolio/vp1.png)
+In progress

@@ -6,7 +6,7 @@ blurb: The Limb Simulator aims to reduce phantom limb pain for those who have lo
 header: LimbSimAction2.png
 thumbnail: LimbSimAction1.png
 people: David Boe, MPO
-permalink: myoelectric-trainer
+permalink: !limbulator
 ---
 This is a video overview of the project.
 https://drive.google.com/file/d/12Jf77bM5Dhy5CeNoIgZHJD84H-1JX1vX/view?usp=sharing

@@ -1,6 +1,22 @@
 publications: Publications
 pubs:
 
+- title: Vibrotactile Feedback Improves Foot Placement Perception on Stairs for Lower-Limb Prosthesis Users
+  authors: N. Rokhmanova, Eric Rombokas 
+  year: 2019
+  url: 
+
+- title: A Framework for Mode-Free Prosthetic Control for Unstructured Terrains
+  authors: Vijeth Rai , Abhishek Sharma , Eric Rombokas
+  year: 2019
+  url: 
+
+- title: Mode-free Control of Prosthetic Lower Limbs
+  authors: Vijeth Rai , Abhishek Sharma , Eric Rombokas
+  year: 2018
+  url: https://ieeexplore.ieee.org/abstract/document/8710187
+  
+  
 - title: 3D Printed lattice microstructures to mimic soft biological materials
   authors: L Johnson, C Richburg, M Lew, W Ledoux, P Aubin, E Rombokas
   year: 2018

@@ -1,6 +1,6 @@
 ---
 modal-id: 9
-title: Smart Prosthesis
+title: Coordinated Movement Prosthesis Control
 topics: Machine Learning, Prosthesis & Orthosis
 blurb: Could a prosthesis learn from examples to adapt to any real-world scenario, much like humans do? Such a self-driving prosthesis would be a radical shift from the current state of affairs where assistive devices operate under strict “modes” of operation with terrain specific movement profiles. 
 
@@ -15,7 +15,9 @@ permalink: deepProsthesis
 ## Introduction
 Most state-of-the-art prosthetic controllers define modes of operation corresponding to terrain types such as flat-ground walking or stair ascent. But humans don’t think in terms of discrete modes for locomotion. Instead, humans optimize and select complex unique movements based on past experiences of navigating similar conditions. However, given the range of possible scenarios, an all-encompassing controller has been hard to implement.
 
-We propose to use computer vision, inertial sensors and techniques from deep learning to train a system to generate movement controls for a prosthesis based on the movements observed in real scenarios. Such an example-based approach requires a copious amount of data but it provides the capability to generate movement that might be di?cult for us to explicitly model.
+We are using computer vision, inertial sensors and deep learning to train a system to generate movement controls for a prosthesis based on the movements observed in real scenarios. Such an example-based approach requires a copious amount of data but it provides the capability to generate movement that might be difficult for us to explicitly model.
+
+For the user of a coordinated movement prosthesis controller, the prosthetic limb responds appropriately in response to the rest of the body. 
 
 ## Methods:	 	 	
 ### Phase 1- Kinematics :

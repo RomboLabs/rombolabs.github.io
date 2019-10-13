@@ -2,105 +2,106 @@ publications: Publications
 pubs:
 
 - title: Vibrotactile Feedback Improves Foot Placement Perception on Stairs for Lower-Limb Prosthesis Users
-  authors: N. Rokhmanova, Eric Rombokas 
+  authors: N. Rokhmanova, Eric Rombokas
   year: 2019
-  url: 
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31374795
 
 - title: A Framework for Mode-Free Prosthetic Control for Unstructured Terrains
   authors: Vijeth Rai , Abhishek Sharma , Eric Rombokas
   year: 2019
-  url: 
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31374728
+
+- title: "ConTact Sensors: A Tactile Sensor Readily Integrable into Soft Robots"
+  authors: Pornthep Preechayasomboon, Eric Rombokas
+  year: 2019
+  url: /publications/preechayasomboon2019.pdf
 
 - title: Mode-free Control of Prosthetic Lower Limbs
   authors: Vijeth Rai , Abhishek Sharma , Eric Rombokas
   year: 2018
   url: https://ieeexplore.ieee.org/abstract/document/8710187
-  
-  
+
 - title: 3D Printed lattice microstructures to mimic soft biological materials
   authors: L Johnson, C Richburg, M Lew, W Ledoux, P Aubin, E Rombokas
   year: 2018
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AEYYDruWGBe4C%26tzom%3D420
-  
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AEYYDruWGBe4C%26tzom%3D420
+
 - title: Sensitivity to Conflict Between Visual Touch and Tactile Touch
   authors: D Caballero, E Rombokas
   year: 2018
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AvbGhcppDl1QC%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AvbGhcppDl1QC%26tzom%3D420
 
 - title: A Lower Limb Prosthesis Haptic Feedback System for Stair Descent
   authors: A Sie, J Realmuto, E Rombokas
   year: 2017
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ML0RJ9NH7IQC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ML0RJ9NH7IQC
 
 - title: Sensory Feedback for Lower Extremity Prostheses Incorporating Targeted Muscle Reinnervation (TMR)
   authors: E Rombokas
   year: 2016
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Z5m8FVwuT1cC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Z5m8FVwuT1cC
 
 - title: Gpu based path integral control with learned dynamics
   authors: G Williams, E Rombokas, T Daniel
   year: 2015
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ipzZ9siozwsC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:ipzZ9siozwsC
 
 - title: A robotic model of inertial flight maneuvering in the hawkmoth
   authors: E Rombokas, L Scheuer, JP Dyhr, TL Daniel
   year: 2014
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:nrtMV_XWKgEC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:nrtMV_XWKgEC
 
 - title: "Sensing from control: airframe deformation for simultaneous actuation and state estimation"
   authors: BT Hinson, E Rombokas, JP Dyhr, TL Daniel, KA Morgansen
   year: 2013
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:yB1At4FlUx8C
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:yB1At4FlUx8C
 
 - title: Vibrotactile sensory substitution for electromyographic control of object manipulation
   authors: E Rombokas, CE Stepp, C Chang, M Malhotra, Y Matsuoka
   year: 2013
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Y0pCki6q_DkC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:Y0pCki6q_DkC
 
 - title: Reinforcement Learning and Synergistic Control of the ACT Hand
   authors: E Rombokas, M Malhotra, E Theodorou, E Todorov, Y Matsuoka
   year: 2012
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:UeHWp8X0CEIC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:UeHWp8X0CEIC
 
 - title: Comparison of remote pressure and vibrotactile feedback for prosthetic hand control
   authors: C Tejeiro, CE Stepp, M Malhotra, E Rombokas, Y Matsuoka
   year: 2012
-  url: /citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:zYLM7Y9cAGgC
+  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate&citation_for_view=hZNUZkgAAAAJ:zYLM7Y9cAGgC
 
 - title: "Tendon-driven control of biomechanical and robotic systems: A path integral reinforcement learning approach"
   authors: E Rombokas, E Theodorou, M Malhotra, E Todorov, Y Matsuoka
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Ad1gkVwhDpl0C%26tzom%3D420
-  
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Ad1gkVwhDpl0C%26tzom%3D420
+
 - title: Reduced dimensionality control for the ACT hand
   authors: M Malhotra, E Rombokas, E Theodorou, E Todorov, Y Matsuoka
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3A9yKSN-GCB0IC%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3A9yKSN-GCB0IC%26tzom%3D420
 
 - title: Biologically inspired grasp planning using only orthogonal approach angles
   authors: E Rombokas, P Brook, JR Smith, Y Matsuoka
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3A2osOgNQ5qMEC%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3A2osOgNQ5qMEC%26tzom%3D420
 
 - title: "Tendon-Driven Variable Impedance Control Using Reinforcement Learning"
   authors: M Malhotra, E Rombokas, E Theodorou, E Todorov, Y Matsuoka
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AqjMakFHDy7sC%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AqjMakFHDy7sC%26tzom%3D420
 
 - title: "Continuous vocalization control of a full-scale assistive robot"
   authors: M Chung, E Rombokas, Q An, Y Matsuoka, J Bilmes
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AIjCSPb-OGe4C%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3AIjCSPb-OGe4C%26tzom%3D420
 
 - title: "Task-specific dynamics for robotic hand control"
   authors: E Rombokas, M Malhotra, Y Matsuoka
   year: 2012
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Au-x6o8ySG0sC%26tzom%3D420
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Au-x6o8ySG0sC%26tzom%3D420
 
 - title: "Task-specific demonstration and practiced synergies for writing with the ACT hand"
   authors: Eric Rombokas, Mark Malhotra, Yoky Matsuoka
   year: 2011
-  url: /citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Au5HHmVD_uO8C%26tzom%3D420
-
-
-
+  url: https://scholar.google.com/citations?user=hZNUZkgAAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DhZNUZkgAAAAJ%26citation_for_view%3DhZNUZkgAAAAJ%3Au5HHmVD_uO8C%26tzom%3D420

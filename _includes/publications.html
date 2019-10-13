@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     {% for item in site.data.publications.pubs %}
-                      <p class="publications"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>, <i>{{ item.authors }}</i> ({{ item.year }})</p>
+                      <p class="publications"><a href="{{ item.url }}" alt="{{ item.title }}" target="_blank">{{ item.title }}</a>, <i>{{ item.authors }}</i> ({{ item.year }})</p>
                     {% endfor %}
                 </div>
             </div>

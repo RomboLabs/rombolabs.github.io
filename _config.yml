@@ -85,18 +85,6 @@ people:
       - title: link
         url: https://vijethrai.github.io/
 
-  - name: Nataliya Rokhmanova
-    pic: NRnorm copy.jpg
-    peek: NRvr copy.jpg
-    position: Masters Student <br /> Mechanical Engineering
-    social:
-      - title: envelope
-        url: mailto:nrokh@uw.edu
-      - title: link
-        url: https://nrokh.github.io/
-      - title: linkedin
-        url: https://www.linkedin.com/in/rokhmanova/
-
   - name: Astrini Sie
     pic: ASnorm copy.jpg
     peek: ASvr copy.jpg
@@ -137,6 +125,14 @@ alumni:
       - title: linkedin
         url: https://www.linkedin.com/in/lalit-palve-a9a28654/
 
+  - name: Nataliya Rokhmanova
+    pic: NRnorm copy.jpg
+    position: Masters <br /> Mechanical Engineering
+    social:
+      - title: link
+        url: https://nrokh.github.io/
+      - title: linkedin
+        url: https://www.linkedin.com/in/rokhmanova/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

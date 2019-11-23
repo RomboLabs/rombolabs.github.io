@@ -4,7 +4,7 @@ title: Limb Simulator
 topics: Prosthesis & Orthosis, Virtual Reality
 blurb: The Limb Simulator aims to reduce phantom limb pain for those who have lost a limb. Most phantom limb pain treatments are palliative in nature – they target individual factors of pain without addressing the underlying cause. By simulating the experience of owning and using an intact limb, Limb Simulator hopes to engage and remodel areas of the brain associated with the lost limb to impact both short and long term outcomes of phantom pain.
 header: LimbSimAction2.png
-thumbnail: LimbSimAction1.png
+thumbnail: Posters_10-20_JPEG_compressed_limbulator.jpg
 people: David Boe, MPO
 permalink: !limbulator
 ---

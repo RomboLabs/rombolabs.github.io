@@ -103,6 +103,14 @@ people:
       - title: envelope
         url: mailto:abhisheksharma0711@gmail.com
 
+  - name: Vlad
+    pic: vlad.jpg
+    peek: vlad2.jpg
+    position: ████ █████ <br /> ██████████████
+    social:
+      - title: envelope
+        url: mailto:██████@███████.███
+
 alumni:
   - name: Huiwen Guo
     pic: huiwen.jpg

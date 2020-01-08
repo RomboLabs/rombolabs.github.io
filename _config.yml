@@ -18,7 +18,7 @@ headshotsize: 200px
 people:
 
   - name: Eric Rombokas
-    pic: ERnorm copy.jpg
+    pic: eric.jpg
     peek: rombokasGoggles.gif
     position: Investigator Supreme
     social:
@@ -28,7 +28,7 @@ people:
         url: https://www.linkedin.com/in/eric-rombokas-2589099/
 
   - name: David Boe
-    pic: DBnorm copy.jpg
+    pic: davidB.jpg
     peek: DBvr copy.jpg
     position: Prosthetologist & Neurobiologist
     social:
@@ -36,7 +36,7 @@ people:
         url: https://www.linkedin.com/in/david-boe-6b43b613b/
 
   - name: David Caballero
-    pic: DCnorm copy.jpg
+    pic: davidC.jpg
     peek: dank.jpg
     position: PhD Student <br /> Electrical Engineering
     social:
@@ -46,7 +46,7 @@ people:
         url: https://www.linkedin.com/in/caballerodavide
 
   - name: Gaurav Mukherjee
-    pic: GMnorm copy.jpg
+    pic: gaurav.jpg
     peek: dank.jpg
     position: PhD Student <br /> Mechanical Engineering
     social:
@@ -64,7 +64,7 @@ people:
         url: https://www.linkedin.com/in/alexandra-sasha-portnova-93792798/
 
   - name: Jom Preechayasomboon
-    pic: PPnorm copy.jpg
+    pic: jom.jpg
     peek: Porny2.jpg
     position: PhD Student <br /> Mechanical Engineering
     social:
@@ -76,7 +76,7 @@ people:
         url: https://prnthp.github.io
 
   - name: Vijeth Rai
-    pic: raiv.jpg
+    pic: vijeth.jpg
     peek: dank.jpg
     position: PhD Candidate <br /> Electrical Engineering
     social:
@@ -86,7 +86,7 @@ people:
         url: https://vijethrai.github.io/
 
   - name: Astrini Sie
-    pic: ASnorm copy.jpg
+    pic: astrini.jpg
     peek: ASvr copy.jpg
     position: PhD Student <br /> Electrical Engineering
     social:

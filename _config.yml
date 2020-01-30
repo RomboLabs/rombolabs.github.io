@@ -38,7 +38,7 @@ people:
   - name: David Caballero
     pic: davidC.jpg
     peek: dank.jpg
-    position: PhD Student <br /> Electrical Engineering
+    position: PhD in <br /> Electrical Engineering
     social:
       - title: envelope
         url: mailto:dcaballe@uw.edu
@@ -48,7 +48,7 @@ people:
   - name: Gaurav Mukherjee
     pic: gaurav.jpg
     peek: dank.jpg
-    position: PhD Student <br /> Mechanical Engineering
+    position: PhD Candidate <br /> Mechanical Engineering
     social:
   #    - title: envelope
   #      url: mailto:mgaurav@uw.edu
@@ -88,7 +88,7 @@ people:
   - name: Astrini Sie
     pic: astrini.jpg
     peek: ASvr copy.jpg
-    position: PhD Student <br /> Electrical Engineering
+    position: PhD Candidate <br /> Electrical Engineering
     social:
       - title: envelope
         url: mailto:astrini@uw.edu

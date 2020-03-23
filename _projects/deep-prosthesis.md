@@ -23,6 +23,8 @@ For the user of a coordinated movement prosthesis controller, the prosthetic lim
 ### Phase 1- Kinematics :
 Whole body gait kinematics will be collected using wireless inertial sensors (Xsens Inc). The dataset will include unstructured movements and activities from multiple users. A Long Short-Term Memory (LSTM) network will be trained to estimate instantaneous ankle kinematics.
 
+![Transition](/img/portfolio/Trans_flat_SD.png)
+
 ### Phase 2 - Kinematics + Vision :
 Scenarios such as obstacle avoidance and transition to stair ascent will need a glimpse of upcoming terrains. Whole body gait kinematics and raw image data from a head-mounted camera will be used to train a Convolutional Neural Network (CNN) + LSTM to estimate instantaneous kinematics, and also to predict upcoming ones.
 

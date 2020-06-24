@@ -1,6 +1,21 @@
 publications: Publications
 pubs:
 
+- title: "Coordinated Movement for Prosthesis Reference Trajectory Generation: Temporal Factors and Attention (Accepted into BioRob 2020)"
+  authors: Vijeth Rai, Abhishek Sharma, Pornthep Preechayasomboon, Eric Rombokas
+  year: 2020
+  url: https://rombolabs.github.io/#
+
+- title: "Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication"
+  authors: Pornthep Preechayasomboon, Eric Rombokas
+  year: 2020
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234354
+
+- title: Linear and Non-linear Dimensionality-Reduction Techniques on Full Hand Kinematics
+  authors: Alexandra A. Portnova-Fahreeva, Fabio Rizzoglio, Ilana Nisky, Maura Casadio, Ferdinando A. Mussa-Ivaldi, Eric Rombokas
+  year: 2020
+  url: https://www.frontiersin.org/articles/10.3389/fbioe.2020.00429/full
+
 - title: Vibrotactile Feedback Improves Foot Placement Perception on Stairs for Lower-Limb Prosthesis Users
   authors: Nataliya Rokhmanova, Eric Rombokas
   year: 2019

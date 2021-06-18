@@ -1,10 +1,25 @@
 publications: Publications
 pubs:
 
-- title: "Coordinated Movement for Prosthesis Reference Trajectory Generation: Temporal Factors and Attention (Accepted into BioRob 2020)"
+- title: "Comparison of texture-based classification and deep learning for plantar soft tissue histology segmentation"
+  authors: Lynda Brady, Yak-Nam Wang, Eric Rombokas, William R Ledoux
+  year: 2021
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0010482521002857
+
+- title: "Sensuator: A Hybrid Sensor–Actuator Approach to Soft Robotic Proprioception Using Recurrent Neural Networks"
+  authors: Pornthep Preechayasomboon, Eric Rombokas
+  year: 2021
+  url: https://www.mdpi.com/2076-0825/10/2/30/htm
+
+- title: "Virtual reality hand therapy: A new tool for nonopioid analgesia for acute procedural pain, hand rehabilitation, and VR embodiment therapy for phantom limb pain"
+  authors: Hunter G Hoffman, David A Boe, Eric Rombokas, Christelle Khadra, Sylvie LeMay, Walter J Meyer, Sam Patterson, Ann Ballesteros, Stephen W Pitt
+  year: 2020
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719341/
+
+- title: "Coordinated Movement for Prosthesis Reference Trajectory Generation: Temporal Factors and Attention"
   authors: Vijeth Rai, Abhishek Sharma, Pornthep Preechayasomboon, Eric Rombokas
   year: 2020
-  url: https://rombolabs.github.io/#
+  url: https://ieeexplore.ieee.org/abstract/document/9224435/
 
 - title: "Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication"
   authors: Pornthep Preechayasomboon, Eric Rombokas
@@ -29,7 +44,7 @@ pubs:
 - title: "ConTact Sensors: A Tactile Sensor Readily Integrable into Soft Robots"
   authors: Pornthep Preechayasomboon, Eric Rombokas
   year: 2019
-  url: /publications/preechayasomboon2019.pdf
+  url: /publications/contact-preechayasomboon-2019.pdf
 
 - title: Mode-free Control of Prosthetic Lower Limbs
   authors: Vijeth Rai, Abhishek Sharma, Eric Rombokas

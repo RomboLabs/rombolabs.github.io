@@ -35,30 +35,10 @@ people:
       - title: linkedin
         url: https://www.linkedin.com/in/david-boe-6b43b613b/
 
-  - name: David Caballero
-    pic: davidC.jpg
-    peek: dank.jpg
-    position: PhD in <br /> Electrical Engineering
-    social:
-      - title: envelope
-        url: mailto:dcaballe@uw.edu
-      - title: linkedin
-        url: https://www.linkedin.com/in/caballerodavide
-
-  - name: Gaurav Mukherjee
-    pic: gaurav.jpg
-    peek: dank.jpg
-    position: PhD Candidate <br /> Mechanical Engineering
-    social:
-  #    - title: envelope
-  #      url: mailto:mgaurav@uw.edu
-      - title: linkedin
-        url: https://www.linkedin.com/in/mukherjeegaurav/
-
   - name: Alexandra (Sasha) Portnova
     pic: sasha.jpg
     peek: dank.jpg
-    position: Visiting PhD Student <br /> Northwestern University
+    position: Visiting PhD Candidate <br /> Northwestern University
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/alexandra-sasha-portnova-93792798/
@@ -74,26 +54,6 @@ people:
         url: https://www.linkedin.com/in/pornthep/
       - title: github
         url: https://prnthp.github.io
-
-  - name: Vijeth Rai
-    pic: vijeth.jpg
-    peek: dank.jpg
-    position: PhD Candidate <br /> Electrical Engineering
-    social:
-      - title: envelope
-        url: mailto:raiv@uw.edu
-      - title: link
-        url: https://vijethrai.github.io/
-
-  - name: Astrini Sie
-    pic: astrini.jpg
-    peek: ASvr copy.jpg
-    position: PhD Candidate <br /> Electrical Engineering
-    social:
-      - title: envelope
-        url: mailto:astrini@uw.edu
-      - title: linkedin
-        url: https://www.linkedin.com/in/astrinisie/
 
   - name: Abhishek Sharma
     pic: abhi.jpg
@@ -141,6 +101,46 @@ alumni:
         url: https://nrokh.github.io/
       - title: linkedin
         url: https://www.linkedin.com/in/rokhmanova/
+        
+  - name: Gaurav Mukherjee
+    pic: gaurav.jpg
+    peek: dank.jpg
+    position: PhD <br /> Mechanical Engineering
+    social:
+  #    - title: envelope
+  #      url: mailto:mgaurav@uw.edu
+      - title: linkedin
+        url: https://www.linkedin.com/in/mukherjeegaurav/
+        
+  - name: Vijeth Rai
+    pic: vijeth.jpg
+    peek: dank.jpg
+    position: PhD <br /> Electrical Engineering
+    social:
+      - title: envelope
+        url: mailto:raiv@uw.edu
+      - title: link
+        url: https://vijethrai.github.io/
+
+  - name: Astrini Sie
+    pic: astrini.jpg
+    peek: ASvr copy.jpg
+    position: PhD <br /> Electrical Engineering
+    social:
+      - title: envelope
+        url: mailto:astrini@uw.edu
+      - title: linkedin
+        url: https://www.linkedin.com/in/astrinisie/
+        
+  - name: David Caballero
+    pic: davidC.jpg
+    peek: dank.jpg
+    position: PhD in <br /> Electrical Engineering
+    social:
+      - title: envelope
+        url: mailto:dcaballe@uw.edu
+      - title: linkedin
+        url: https://www.linkedin.com/in/caballerodavide
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

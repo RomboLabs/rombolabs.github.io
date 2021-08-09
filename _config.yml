@@ -104,7 +104,6 @@ alumni:
         
   - name: Gaurav Mukherjee
     pic: gaurav.jpg
-    peek: dank.jpg
     position: PhD <br /> Mechanical Engineering
     social:
   #    - title: envelope
@@ -114,7 +113,6 @@ alumni:
         
   - name: Vijeth Rai
     pic: vijeth.jpg
-    peek: dank.jpg
     position: PhD <br /> Electrical Engineering
     social:
       - title: envelope
@@ -124,7 +122,6 @@ alumni:
 
   - name: Astrini Sie
     pic: astrini.jpg
-    peek: ASvr copy.jpg
     position: PhD <br /> Electrical Engineering
     social:
       - title: envelope
@@ -134,7 +131,6 @@ alumni:
         
   - name: David Caballero
     pic: davidC.jpg
-    peek: dank.jpg
     position: PhD in <br /> Electrical Engineering
     social:
       - title: envelope

@@ -146,17 +146,13 @@ social:
     url: http://github.com/rombolabs
 
 contactinfo:
+  - line: <a href="mailto:rombokas@uw.edu">rombokas@uw.edu</a>
   - line: <a href="mailto:rombolab@uw.edu">rombolab@uw.edu</a>
   - line: 206-764-2991
 
 addresses:
   - address:
     - line: University of Washington
-    - line: Seattle, WA 98105
-  - address:
-    - line: Center for Limb Loss and MoBility (CLiMB)
-    - line: VA Puget Sound Health Care System
-    - line: 1660 South Columbian Way, MS 151
     - line: Seattle, WA 98105
 
 # Build settings

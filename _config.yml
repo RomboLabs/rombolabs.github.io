@@ -103,7 +103,7 @@ alumni:
         url: https://www.linkedin.com/in/rokhmanova/
         
   - name: Gaurav Mukherjee
-    pic: gaurav.jpg
+    pic: mgaurav.jpg
     position: PhD <br /> Mechanical Engineering
     social:
   #    - title: envelope
@@ -131,7 +131,7 @@ alumni:
         
   - name: David Caballero
     pic: davidC.jpg
-    position: PhD in <br /> Electrical Engineering
+    position: PhD <br /> Electrical Engineering
     social:
       - title: envelope
         url: mailto:dcaballe@uw.edu

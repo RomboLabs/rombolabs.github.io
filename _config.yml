@@ -62,6 +62,14 @@ people:
     social:
       - title: envelope
         url: mailto:abhisheksharma0711@gmail.com
+  
+  - name: Maxim Karrenbach
+    pic: maxim.jpg
+    peek: dank.jpg
+    position: MS Student <br /> Electrical Engineering
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/maxim-karrenbach/
 
   - name: Vlad
     pic: vlad.jpg

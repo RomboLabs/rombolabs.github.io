@@ -1,6 +1,11 @@
 publications: Publications
 pubs:
 
+- title: "Haplets: Finger-Worn Wireless and Low-Encumbrance Vibrotactile Haptic Feedback for Virtual and Augmented Reality"
+  authors: Pornthep Preechayasomboon, Eric Rombokas
+  year: 2021
+  url: https://www.frontiersin.org/articles/10.3389/frvir.2021.738613/full
+
 - title: "Comparison of texture-based classification and deep learning for plantar soft tissue histology segmentation"
   authors: Lynda Brady, Yak-Nam Wang, Eric Rombokas, William R Ledoux
   year: 2021

@@ -1,6 +1,11 @@
 publications: Publications
 pubs:
 
+- title: "Descending 13 Real World Steps: A Dataset and Analysis of Stair Descent (Gait & Posture in press)"
+  authors: Astrini Sie, Maxim Karrenbach, Charlie Fisher, Shawn Fisher, Nathaniel Wieck, Callysta Caraballo, Elisabeth Case, David Boe, Brittney Muir, Eric Rombokas
+  year: 2021
+  url: 
+
 - title: "Haplets: Finger-Worn Wireless and Low-Encumbrance Vibrotactile Haptic Feedback for Virtual and Augmented Reality"
   authors: Pornthep Preechayasomboon, Eric Rombokas
   year: 2021

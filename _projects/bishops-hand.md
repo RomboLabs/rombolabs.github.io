@@ -1,6 +1,6 @@
 ---
 modal-id: 1
-title: Bishop's Hand
+title: Bishop's Hand: Virtual Hand Embodiment
 topics: Virtual Reality, Body Ownership
 blurb: Why does your hand feel like a part of your body, but your screwdriver does not? We are investigating the mechanisms used by the brain to create a sense of ownership over the body. One of the ways that researchers study this is to create the illusion of body ownership over "false" limbs, like fake hands or prosthetic limbs. There are only a few ways we can measure whether a person is feeling this illusion, such as questionnaire, or by measuring reactions to threats to the limb. We are working toward a quantitative understanding of how this "rubber hand illusion" is affected by sensory cues, movement, and expectation. In the laboratory, we can control the visual, tactile, and movement cues that people experience, determine how they contribute to feelings of body ownership.
 header: bishopsHand.jpg

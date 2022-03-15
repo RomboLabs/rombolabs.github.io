@@ -1,10 +1,28 @@
 publications: Publications
 pubs:
 
-- title: "Descending 13 Real World Steps: A Dataset and Analysis of Stair Descent (Gait & Posture in press)"
+- title: "For the most up-to-date listing, see google scholar Rombokas page"
+  url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate
+
+- title: "Improving IMU-based prediction of lower limb kinematics in natural environments using egocentric optical flow"
+  authors: Abhishek Sharma, Eric Rombokas
+  year: 2022
+  url: https://ieeexplore.ieee.org/abstract/document/9729197/
+
+- title: "Improving automatic control of upper-limb prosthesis wrists using gaze-centered eye tracking and deep learning"
+  authors: Maxim Karrenbach, David Boe, Astrini Sie, Rob Bennett, Eric Rombokas
+  year: 2022
+  url: https://ieeexplore.ieee.org/abstract/document/9698069/
+
+- title: "Dimensionality Reduction of Human Gait for Prosthetic Control"
+  authors: David Boe, Alexandra A Portnova-Fahreeva, Abhishek Sharma, Vijeth Rai, Astrini Sie, Pornthep Preechayasomboon, Eric Rombokas
+  year: 2021
+  url: https://www.frontiersin.org/articles/10.3389/fbioe.2021.724626/full
+
+- title: "Descending 13 Real World Steps: A Dataset and Analysis of Stair Descent"
   authors: Astrini Sie, Maxim Karrenbach, Charlie Fisher, Shawn Fisher, Nathaniel Wieck, Callysta Caraballo, Elisabeth Case, David Boe, Brittney Muir, Eric Rombokas
   year: 2021
-  url: 
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0966636221005701
 
 - title: "Haplets: Finger-Worn Wireless and Low-Encumbrance Vibrotactile Haptic Feedback for Virtual and Augmented Reality"
   authors: Pornthep Preechayasomboon, Eric Rombokas

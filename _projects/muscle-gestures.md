@@ -3,8 +3,8 @@ modal-id: 6
 title: Muscle Activation, EMG, and Gestures
 topics: Human-Machine Interface, Machine Learning, Virtual Reality
 blurb: New gesture-sensing systems use sophisticated cameras and data processing to achieve in-air interaction with computer systems and interaction with virtual and augmented reality. A key feature of human movement, however, is invisible to these cameras- the activation of the muscles. Electromyography (EMG) can sense the activation of muscles, but it is difficult to infer pose and movement from EMG alone. These two complementary technologies can be combined to improve human-machine interaction.
-header: emgGestureSetup.png
-thumbnail: emgGestureSetup.png
+header: emgThumbnail.png
+thumbnail: emgThumbnail.png
 people: Eric Rombokas, Pornthep Preechayasomboon
 permalink: muscleGestures
 ---

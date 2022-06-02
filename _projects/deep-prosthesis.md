@@ -11,6 +11,7 @@ permalink: deepProsthesis
 ---
 <!-- ![lstm_arch](/img/portfolio/Network_basic.png) -->
 
+<img src="/media/romboLeg.png">
 
 ## Introduction
 Most state-of-the-art prosthetic controllers define modes of operation corresponding to terrain types such as flat-ground walking or stair ascent. But humans don’t think in terms of discrete modes for locomotion. Instead, humans optimize and select complex unique movements based on past experiences of navigating similar conditions. However, given the range of possible scenarios, an all-encompassing controller has been hard to implement.

@@ -25,8 +25,21 @@
         </div>
     </div>
 {% endfor %}
-
 <script type="text/javascript">
+$('body').on('shown.bs.modal', '.modal', function () {
+    location.hash = "#project"
+})
+
+$('body').on('hidden.bs.modal', '.modal', function () {
+    location.hash = ''
+})
+
+//when user press back button
+$(window).on('hashchange', function (e) {
+    if(location.hash == ''){
+        $('.modal').modal('hide')
+    }
+})
 $(document).ready(function() {
   $(".modal.permalink").each(function(){
     if(window.location.href.indexOf($(this).attr("id")) != -1){

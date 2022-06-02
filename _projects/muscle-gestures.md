@@ -14,7 +14,7 @@ Vision-based gesture and pose detecting systems combined with EMG muscle sensing
 ## EMG array armband
 We we are trying to estimate hand kinematics and intent from a forearm-worn EMG array. For data collection, Jom Preechayasomboon built a custom 8-channel EMG armband from scratch based on the ADS1299. The electrodes are 3D printed from electrically conductive TPU. The nRF-based wireless communication, based off of technology developed for our haptics projects, enable low latency (1 ms) streaming to a USB dongle. We stream 1000 Hz data directly to a Meta Quest 2 so we can collect hand tracking data and EMG signals simultaneously, all locally on the headset. This is great for deployment for user studies without the hassle of hardware setup, just plug-n-play.
 
-<p><img src="media/emgBandPrototype.jpg" alt="EMG Band Prototype" /></p>
+<p><img src="/media/emgBandPrototype.jpg" alt="EMG Band Prototype" /></p>
 
 <video width="100%" controls="">
      <source src="//user-images.githubusercontent.com/25041773/157564522-c7b8c7fa-c504-42df-85a7-2076a20988bc.mp4" />

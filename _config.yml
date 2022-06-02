@@ -24,6 +24,8 @@ people:
     social:
       - title: link
         url: http://rombokas.com/eric/
+      - title: twitter
+        url: https://twitter.com/erombokas
       - title: linkedin
         url: https://www.linkedin.com/in/eric-rombokas-2589099/
 
@@ -48,12 +50,12 @@ people:
     peek: Porny2.jpg
     position: PhD Student <br /> Mechanical Engineering
     social:
-      - title: envelope
-        url: mailto:prnthp@uw.edu
       - title: linkedin
         url: https://www.linkedin.com/in/pornthep/
-      - title: github
+      - title: link
         url: https://prnthp.github.io
+      - title: twitter
+        url: https://twitter.com/prnthp
 
   - name: Abhishek Sharma
     pic: abhi.jpg
@@ -62,6 +64,11 @@ people:
     social:
       - title: envelope
         url: mailto:abhisheksharma0711@gmail.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/abhishek-sharma-00498a5a/
+      - title: link
+        url: https://abs711.github.io/
+
   
   - name: Maxim Karrenbach
     pic: maxim.jpg
@@ -161,7 +168,7 @@ contactinfo:
 addresses:
   - address:
     - line: University of Washington
-    - line: Seattle, WA 98105
+    - line: Seattle, WA 98195
 
 # Build settings
 markdown: kramdown

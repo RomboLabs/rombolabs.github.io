@@ -15,7 +15,7 @@
             <div class="row">
             {% for project in site.projects %}
             <div class="row item" data-item-tags="{{ project.topics }}">
-                <div class="col-md-4 col-sm-2 portfolio-item" >
+                <div class="col-md-3 col-sm-3 portfolio-item" >
                     <a href="#project-{{ project.permalink }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -25,7 +25,7 @@
                         <img src="img/portfolio/{{ project.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
-                <div class="col-md-8 col-sm-2">
+                <div class="col-md-8 col-sm-8">
                     <h3><a href="#project-{{ project.permalink }}" class="portfolio-permalink" data-toggle="modal">{{ project.title }}</a></h3>
                     <p class="item-tags"></p>
                     <p class="text-muted">{{ project.blurb }}</p>

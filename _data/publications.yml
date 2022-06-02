@@ -1,9 +1,6 @@
 publications: Publications
 pubs:
 
-- title: "For the most up-to-date listing, see google scholar Rombokas page"
-  url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=hZNUZkgAAAAJ&sortby=pubdate
-
 - title: "Improving IMU-based prediction of lower limb kinematics in natural environments using egocentric optical flow"
   authors: Abhishek Sharma, Eric Rombokas
   year: 2022

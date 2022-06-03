@@ -6,7 +6,7 @@ blurb: Almost every application we work on uses machine learning techniques. We 
 
 header: machineLearningSplash.png
 thumbnail: machineLearningSplash.png
-people: Eric Rombokas, Abhishek Sharma, Alexandra Portnova-Fahreeva, Maxim Karrenbach, Vijeth Rai, 
+people: Just about all Rombolabs members over all time
 permalink: machineLearning
 ---
 
@@ -25,6 +25,7 @@ One of our primary areas of focus is in creating low-dimensional embeddings of h
 
 When the environment is uncertain, or when the dynamics of the robot are complex, it becomes difficult to use traidtional, physics-based models for control. We develop new methods for using real recordings of robotic motion and sensors to enable new controllers that leverage the power of deep learning representations and model-predictive optimal control. The applications range from [soft sensor-actuator enabled robots](https://www.mdpi.com/2076-0825/10/2/30) to [Model Predictive Policy Improvement](https://arxiv.org/abs/1503.00330) using learned dynamics models and beyond. 
   
+![The ACT Hand is a tendon-driven biomechanical robot](ActHand.png)
 
-
+![Model-predictive Policy Improvement (MPPI) parallelized on a GPU using data-derived dynamic models](QuadSmasherChasing.wmv)
 

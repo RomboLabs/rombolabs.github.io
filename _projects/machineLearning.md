@@ -27,7 +27,7 @@ When the environment is uncertain, or when the dynamics of the robot are complex
   
 ![The ACT Hand is a tendon-driven biomechanical robot](Act Hand.png)
 
-<video src="/media/QuadSmasherChasing.wmv" >
+<video src="/media/QuadSmasherChasing.mp4" >
 </video>
 <!-- ![Model-predictive Policy Improvement (MPPI) parallelized on a GPU using data-derived dynamic models](QuadSmasherChasing.wmv)  -->
 

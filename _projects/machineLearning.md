@@ -23,7 +23,7 @@ One of our primary areas of focus is in creating low-dimensional embeddings of h
 
 ## Data-driven robotic control
 
-When the environment is uncertain, or when the dynamics of the robot are complex, it becomes difficult to use traidtional, physics-based models for control. We develop new methods for using real recordings of robotic motion and sensors to enable new controllers that leverage the power of deep learning representations and model-predictive optimal control. The applications range from <a href="https://www.mdpi.com/2076-0825/10/2/30>soft sensor-actuator enabled robots</a> to <a href="https://arxiv.org/abs/1503.00330">Model Predictive Policy Improvement</a> using learned dynamics models and beyond. 
+When the environment is uncertain, or when the dynamics of the robot are complex, it becomes difficult to use traidtional, physics-based models for control. We develop new methods for using real recordings of robotic motion and sensors to enable new controllers that leverage the power of deep learning representations and model-predictive optimal control. The applications range from [soft sensor-actuator enabled robots](https://www.mdpi.com/2076-0825/10/2/30) to [Model Predictive Policy Improvement](https://arxiv.org/abs/1503.00330) using learned dynamics models and beyond. 
   
 
 

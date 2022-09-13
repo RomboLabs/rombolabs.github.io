@@ -29,33 +29,13 @@ people:
       - title: linkedin
         url: https://www.linkedin.com/in/eric-rombokas-2589099/
 
-  - name: David Boe
-    pic: davidB.jpg
-    peek: DBvr copy.jpg
-    position: Prosthetologist & Neurobiologist
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/david-boe-6b43b613b/
-
   - name: Alexandra (Sasha) Portnova
     pic: sasha.jpg
     peek: dank.jpg
-    position: Visiting PhD Candidate <br /> Northwestern University
+    position: Posdoctoral Fellow <br /> UW CREATE
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/alexandra-sasha-portnova-93792798/
-
-  - name: Jom Preechayasomboon
-    pic: jom.jpg
-    peek: Porny2.jpg
-    position: PhD Student <br /> Mechanical Engineering
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/pornthep/
-      - title: link
-        url: https://prnthp.github.io
-      - title: twitter
-        url: https://twitter.com/prnthp
 
   - name: Abhishek Sharma
     pic: abhi.jpg
@@ -68,12 +48,11 @@ people:
         url: https://www.linkedin.com/in/abhishek-sharma-00498a5a/
       - title: link
         url: https://abs711.github.io/
-
   
   - name: Maxim Karrenbach
     pic: maxim.jpg
     peek: dank.jpg
-    position: MS Student <br /> Electrical Engineering
+    position: MS <br /> Electrical Engineering
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/maxim-karrenbach/
@@ -152,6 +131,22 @@ alumni:
         url: mailto:dcaballe@uw.edu
       - title: linkedin
         url: https://www.linkedin.com/in/caballerodavide
+
+  - name: David Boe
+    pic: davidB.jpg
+    position: Prosthetologist & Neurobiologist
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/david-boe-6b43b613b/
+
+  - name: Jom Preechayasomboon
+    pic: jom.jpg
+    position: PhD <br /> Mechanical Engineering
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/pornthep/
+      - title: link
+        url: https://pornthep.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
